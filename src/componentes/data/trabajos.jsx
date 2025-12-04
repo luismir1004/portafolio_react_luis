@@ -3,12 +3,12 @@ const trabajos = [
 		id: 1,
 		categoria: 'diseño-web',
 		thumb: {
-			url: './assets/trabajos/desarrollo-3.png',
+			url: './assets/trabajos/diseño-1.png',
 			alt: 'Trabajo 1',
 		},
 		info: {
 			nombre: 'Nexa Sys',
-			categoria: 'diseño web',
+			categoria: 'Diseño Web',
 			contenido: (
 				<>
 					<p>
@@ -45,7 +45,7 @@ const trabajos = [
 		},
 		info: {
 			nombre: 'Quantum Soft',
-			categoria: 'desarrollo web',
+			categoria: 'Desarrollo Web',
 			contenido: (
 				<>
 					<p>
@@ -82,7 +82,7 @@ const trabajos = [
 		},
 		info: {
 			nombre: 'Infratech Solutions',
-			categoria: 'aplicaciones moviles',
+			categoria: 'Aplicaciones Moviles',
 			contenido: (
 				<>
 					<p>
@@ -112,14 +112,14 @@ const trabajos = [
 	},
 	{
 		id: 4,
-		categoria: 'desarrollador-software',
+		categoria: 'desarrollo-software',
 		thumb: {
 			url: './assets/trabajos/sofware-dev-1.png',
 			alt: 'Trabajo 4',
 		},
 		info: {
 			nombre: 'CyberSphere Innovations',
-			categoria: 'desarrollador-software',
+			categoria: 'Desarrollo de Software',
 			contenido: (
 				<>
 					<p>
@@ -151,12 +151,12 @@ const trabajos = [
 		id: 5,
 		categoria: 'diseño-web',
 		thumb: {
-			url: './assets/trabajos/sofware-dev-2.png',
+			url: './assets/trabajos/diseño-2.png',
 			alt: 'Trabajo 5',
 		},
 		info: {
 			nombre: 'ByteFusion Technologies',
-			categoria: 'diseño web',
+			categoria: 'Diseño Web',
 			contenido: (
 				<>
 					<p>
@@ -193,7 +193,7 @@ const trabajos = [
 		},
 		info: {
 			nombre: 'SynthiCore Systems',
-			categoria: 'desarrollo web',
+			categoria: 'Desarrollo Web',
 			contenido: (
 				<>
 					<p>
@@ -230,7 +230,7 @@ const trabajos = [
 		},
 		info: {
 			nombre: 'VirtuWave Labs',
-			categoria: 'aplicaciones moviles',
+			categoria: 'Aplicaciones Moviles',
 			contenido: (
 				<>
 					<p>
@@ -260,14 +260,14 @@ const trabajos = [
 	},
 	{
 		id: 8,
-		categoria: 'desarrollador-software',
+		categoria: 'desarrollo-software',
 		thumb: {
 			url: './assets/trabajos/sofware-dev-2.png',
 			alt: 'Trabajo 8',
 		},
 		info: {
 			nombre: 'PixelVortex Tech',
-			categoria: 'desarrollador de software',
+			categoria: 'Desarrollo de Software',
 			contenido: (
 				<>
 					<p>
@@ -299,12 +299,12 @@ const trabajos = [
 		id: 9,
 		categoria: 'diseño-web',
 		thumb: {
-			url: './assets/trabajos/desarrollo-1.png',
+			url: './assets/trabajos/diseño-3.png',
 			alt: 'Trabajo 9',
 		},
 		info: {
 			nombre: 'OptiSync Technologies',
-			categoria: 'diseño web',
+			categoria: 'Diseño Web',
 			contenido: (
 				<>
 					<p>
@@ -341,7 +341,7 @@ const trabajos = [
 		},
 		info: {
 			nombre: 'TechNova Dynamics',
-			categoria: 'desarrollo web',
+			categoria: 'Desarrollo Web',
 			contenido: (
 				<>
 					<p>
@@ -378,7 +378,7 @@ const trabajos = [
 		},
 		info: {
 			nombre: 'LogicLink Solutions',
-			categoria: 'aplicaciones moviles',
+			categoria: 'Aplicaciones Moviles',
 			contenido: (
 				<>
 					<p>
@@ -408,14 +408,14 @@ const trabajos = [
 	},
 	{
 		id: 12,
-		categoria: 'desarrollador-software',
+		categoria: 'desarrollo-software',
 		thumb: {
 			url: './assets/trabajos/sofware-dev-3.png',
 			alt: 'Trabajo 12',
 		},
 		info: {
 			nombre: 'CodeWave Innovations',
-			categoria: 'desarrollador de software',
+			categoria: 'Desarrollo de Software',
 			contenido: (
 				<>
 					<p>
