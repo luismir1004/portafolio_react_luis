@@ -5,7 +5,7 @@ const Hero = () => (
 		<section className="hero">
 			<div className="contenido">
 				<h3 className="titulo">
-					<span>Hola!</span>Soy Carlos Arturo
+					<span>Hola!</span>Soy Luis Mir
 				</h3>
 				<p className="subtitulo">
 					Full Stack Developer, Freelancer y autor <br />
