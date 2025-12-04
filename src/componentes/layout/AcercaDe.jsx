@@ -15,7 +15,7 @@ const AcercaDe = () => {
 						<h4 className="pre-titulo">Acerca de mí</h4>
 						<h3 className="titulo">La razón por la que deberías contratarme</h3>
 						<p className="resumen">
-							Hola! Soy Carlos Arturo, un apasionado freelancer dedicado a convertir ideas en realidades.
+							Hola! Soy Luis Mir, un apasionado freelancer dedicado a convertir ideas en realidades.
 							Con un enfoque creativo y minucioso, transformo proyectos en experiencias únicas.
 							<br />
 							Mi objetivo es superar tus expectativas en cada colaboración, brindando soluciones que
